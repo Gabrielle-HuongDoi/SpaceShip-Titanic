@@ -1,5 +1,6 @@
 ## SpaceShip-Titanic
-#### Predict which passengers are transported to an alternate dimension
+### Predict which passengers are transported to an alternate dimension
+
 
 This is a knowledge competition on Kaggle - one of the largest Machine learning and Data science communities.
 
